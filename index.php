@@ -3,3 +3,8 @@
     echo 'Hello World';
 ?>
 
+//Same as above code
+
+<?php
+    print 'Hello World';
+?>
